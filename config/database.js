@@ -1,9 +1,9 @@
 // Connection to the database
 module.exports = {
   'connection': {
-    'host': 'pickstracker.cojfykblcxek.us-east-2.rds.amazonaws.com',
+    'host': 'database',
     'user': 'admin',
-    'password': '1Dumbass!',
+    'password': 'password',
   },
   'database': 'myplanner',
   'user_table': 'users'
